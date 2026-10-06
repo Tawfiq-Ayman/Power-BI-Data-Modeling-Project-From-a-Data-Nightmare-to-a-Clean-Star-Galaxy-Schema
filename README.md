@@ -1,4 +1,4 @@
-📊 Power BI Data Modeling Project — From a Data Nightmare to a Clean Star/Galaxy Schema
+<img width="1132" height="690" alt="Clean Data Modeling" src="https://github.com/user-attachments/assets/3a5cc119-a7d6-441c-9b87-866b8c015290" />📊 Power BI Data Modeling Project — From a Data Nightmare to a Clean Star/Galaxy Schema
 
 A full end-to-end **Power BI data modeling portfolio project**, where a chaotic, messy, 23-table raw dataset was transformed into a clean, well-structured, high-performing **Star/Galaxy Schema** data model — following real-world dimensional modeling best practices.
 
@@ -42,12 +42,12 @@ The project covers the **entire data modeling lifecycle**:
 ### ❌ Before — "Chaotic Data Modeling"
 A loosely connected, inconsistent, and confusing collection of raw tables with unclear relationships, inconsistent naming, duplicated logic, and no clear Fact/Dimension separation.
 
-![Chaotic Data Modeling](<img width="1141" height="715" alt="Chaotic Data Modeling" src="https://github.com/user-attachments/assets/1c9bade2-26a7-48dd-a907-15fde149b8c4" />#)
+<img width="1141" height="715" alt="Chaotic Data Modeling" src="https://github.com/user-attachments/assets/1c9bade2-26a7-48dd-a907-15fde149b8c4" />
 
 ### ✅ After — "Clean Data Modeling"
 A fully restructured **Star/Galaxy Schema**, with clearly separated Fact and Dimension tables (prefixed `fact_` / `dim_`), shared dimensions connecting multiple fact tables, a dedicated Date table, a centralized Measures table, and a security table for Row-Level Security.
 
-![Clean Data Modeling](./images/Clean_Data_Modeling.png)
+https://github.com/Tawfiq-Ayman/Power-BI-Data-Modeling-Project-From-a-Data-Nightmare-to-a-Clean-Star-Galaxy-Schema/blob/main/Clean%20Data%20Modeling.png
 
 ---
 
