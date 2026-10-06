@@ -53,7 +53,7 @@ A fully restructured **Star/Galaxy Schema**, with clearly separated Fact and Dim
 
 ## 😵 The Problem: A Data Modeling Nightmare
 
-The raw dataset (see [https://github.com/Tawfiq-Ayman/Power-BI-Data-Modeling-Project-From-a-Data-Nightmare-to-a-Clean-Star-Galaxy-Schema/blob/main/dataset.pbix](./data/dataset.xlsx) and the unmodeled [`dataset.pbix`](./data/dataset.pbix)) arrived in a state very similar to what you'd get directly from operational/transactional systems:
+The raw dataset (see [`dataset.xlsx`](https://github.com/Tawfiq-Ayman/Power-BI-Data-Modeling-Project-From-a-Data-Nightmare-to-a-Clean-Star-Galaxy-Schema/blob/main/dataset.xlsx) and the unmodeled [`dataset.pbix`](https://github.com/Tawfiq-Ayman/Power-BI-Data-Modeling-Project-From-a-Data-Nightmare-to-a-Clean-Star-Galaxy-Schema/blob/main/dataset.pbix)) arrived in a state very similar to what you'd get directly from operational/transactional systems:
 
 - **23 loosely related tables** with inconsistent, unclear naming (e.g. `ORDERS_2025`, `ORDERS_2026`, `CUST_MASTER`, `customer_contacts`, `campaign_skus`, `CAMPAIGN_LOG`, `invoice_lines`, `order_line_items`, `Sheet1`, etc.)
 - No clear distinction between **Facts** (business events/transactions) and **Dimensions** (descriptive context)
@@ -144,13 +144,13 @@ To keep the model consistent, readable, and maintainable, the following standard
 
 | File | Description |
 |---|---|
-| [`Power_Bi_Data_Modeling_Project.pbix`](./Power_Bi_Data_Modeling_Project.pbix) | ✅ The **final, completed** Power BI file — the clean Star/Galaxy Schema data model, fully built and ready to explore. |
-| [`data/dataset.xlsx`](./data/dataset.xlsx) | 📄 The **raw, original dataset** (Excel) — the messy, un-modeled source data before any cleaning or restructuring. |
-| [`data/dataset.pbix`](./data/dataset.pbix) | 📄 The **raw, starting Power BI file** — the project in its original "nightmare" state, before the data modeling process began. |
-| [`images/Chaotic_Data_Modeling.png`](./images/Chaotic_Data_Modeling.png) | 🖼️ Screenshot of the original, messy data model (before). |
-| [`images/Clean_Data_Modeling.png`](./images/Clean_Data_Modeling.png) | 🖼️ Screenshot of the final, clean Star/Galaxy Schema data model (after). |
+| [`Power_Bi_Data_Modeling_Project.pbix`](https://github.com/Tawfiq-Ayman/Power-BI-Data-Modeling-Project-From-a-Data-Nightmare-to-a-Clean-Star-Galaxy-Schema/blob/main/Power%20Bi%20Data%20Modeling%20Project.pbix) | ✅ The **final, completed** Power BI file — the clean Star/Galaxy Schema data model, fully built and ready to explore. |
+| [`data/dataset.xlsx`]([./data/dataset.xlsx](https://github.com/Tawfiq-Ayman/Power-BI-Data-Modeling-Project-From-a-Data-Nightmare-to-a-Clean-Star-Galaxy-Schema/blob/main/dataset.xlsx)) | 📄 The **raw, original dataset** (Excel) — the messy, un-modeled source data before any cleaning or restructuring. |
+| [`data/dataset.pbix`](https://github.com/Tawfiq-Ayman/Power-BI-Data-Modeling-Project-From-a-Data-Nightmare-to-a-Clean-Star-Galaxy-Schema/blob/main/dataset.pbix) | 📄 The **raw, starting Power BI file** — the project in its original "nightmare" state, before the data modeling process began. |
+| [`images/Chaotic_Data_Modeling.png`](https://github.com/Tawfiq-Ayman/Power-BI-Data-Modeling-Project-From-a-Data-Nightmare-to-a-Clean-Star-Galaxy-Schema/blob/main/Chaotic%20Data%20Modeling.png) | 🖼️ Screenshot of the original, messy data model (before). |
+| [`images/Clean_Data_Modeling.png`](https://github.com/Tawfiq-Ayman/Power-BI-Data-Modeling-Project-From-a-Data-Nightmare-to-a-Clean-Star-Galaxy-Schema/blob/main/Clean%20Data%20Modeling.png) | 🖼️ Screenshot of the final, clean Star/Galaxy Schema data model (after). |
 
-> 💡 Open [`Power_Bi_Data_Modeling_Project.pbix`](./Power_Bi_Data_Modeling_Project.pbix) in Power BI Desktop to explore the final model, relationships, and measures directly.
+> 💡 Open [`Power_Bi_Data_Modeling_Project.pbix`](https://github.com/Tawfiq-Ayman/Power-BI-Data-Modeling-Project-From-a-Data-Nightmare-to-a-Clean-Star-Galaxy-Schema/blob/main/Power%20Bi%20Data%20Modeling%20Project.pbix) in Power BI Desktop to explore the final model, relationships, and measures directly.
 
 ---
 
@@ -187,6 +187,6 @@ This is an important step forward in my journey toward becoming a **Data Analyst
 
 ## 🔗 Connect With Me
 
-- **LinkedIn:** [Add your LinkedIn profile link here]
+- **LinkedIn:** [www.linkedin.com/in/tawfiq-ayman-a79a023b9]
 
 ---
