@@ -1,4 +1,4 @@
-<img width="1132" height="690" alt="Clean Data Modeling" src="https://github.com/user-attachments/assets/3a5cc119-a7d6-441c-9b87-866b8c015290" />📊 Power BI Data Modeling Project — From a Data Nightmare to a Clean Star/Galaxy Schema
+📊 Power BI Data Modeling Project — From a Data Nightmare to a Clean Star/Galaxy Schema
 
 A full end-to-end **Power BI data modeling portfolio project**, where a chaotic, messy, 23-table raw dataset was transformed into a clean, well-structured, high-performing **Star/Galaxy Schema** data model — following real-world dimensional modeling best practices.
 
@@ -47,13 +47,13 @@ A loosely connected, inconsistent, and confusing collection of raw tables with u
 ### ✅ After — "Clean Data Modeling"
 A fully restructured **Star/Galaxy Schema**, with clearly separated Fact and Dimension tables (prefixed `fact_` / `dim_`), shared dimensions connecting multiple fact tables, a dedicated Date table, a centralized Measures table, and a security table for Row-Level Security.
 
-https://github.com/Tawfiq-Ayman/Power-BI-Data-Modeling-Project-From-a-Data-Nightmare-to-a-Clean-Star-Galaxy-Schema/blob/main/Clean%20Data%20Modeling.png
+<img width="1132" height="690" alt="Clean Data Modeling" src="https://github.com/user-attachments/assets/3a5cc119-a7d6-441c-9b87-866b8c015290" />
 
 ---
 
 ## 😵 The Problem: A Data Modeling Nightmare
 
-The raw dataset (see [`dataset.xlsx`](./data/dataset.xlsx) and the unmodeled [`dataset.pbix`](./data/dataset.pbix)) arrived in a state very similar to what you'd get directly from operational/transactional systems:
+The raw dataset (see [https://github.com/Tawfiq-Ayman/Power-BI-Data-Modeling-Project-From-a-Data-Nightmare-to-a-Clean-Star-Galaxy-Schema/blob/main/dataset.pbix](./data/dataset.xlsx) and the unmodeled [`dataset.pbix`](./data/dataset.pbix)) arrived in a state very similar to what you'd get directly from operational/transactional systems:
 
 - **23 loosely related tables** with inconsistent, unclear naming (e.g. `ORDERS_2025`, `ORDERS_2026`, `CUST_MASTER`, `customer_contacts`, `campaign_skus`, `CAMPAIGN_LOG`, `invoice_lines`, `order_line_items`, `Sheet1`, etc.)
 - No clear distinction between **Facts** (business events/transactions) and **Dimensions** (descriptive context)
