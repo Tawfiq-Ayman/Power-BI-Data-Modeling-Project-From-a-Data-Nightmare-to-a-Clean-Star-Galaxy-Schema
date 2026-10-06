@@ -16,7 +16,7 @@ This project was built as part of the **[Power BI Ultimate Course](https://www.y
 - [Naming Conventions & Standards](#-naming-conventions--standards)
 - [Project Files](#-project-files)
 - [Skills I Gained From This Project](#-skills-i-gained-from-this-project)
-- [Credits](#-credits)
+- [Final Takeaway](#-final-takeaway)
 - [Connect With Me](#-connect-with-me)
 
 ---
